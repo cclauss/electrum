@@ -1,6 +1,6 @@
 from functools import partial
 
-#from btchip.btchipPersoWizard import StartBTChipPersoDialog
+from btchip.btchipPersoWizard import StartBTChipPersoDialog
 
 from PyQt5.QtCore import pyqtSignal
 from PyQt5.QtWidgets import QInputDialog, QLabel, QVBoxLayout, QLineEdit
